@@ -29,3 +29,9 @@ Welcome to my GitHub profile! Pinned repos:
 # Inspiration:
 
 Thank you to [@DevBubba](https://github.com/DevBubba) for inspiring my README
+
+# Shoutouts:
+
+-   Example
+-   Example
+-   Example
