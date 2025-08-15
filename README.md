@@ -32,6 +32,6 @@ Thank you to [@DevBubba](https://github.com/DevBubba) for inspiring my README
 
 # Shoutouts:
 
--   Example
--   Example
--   Example
+-   [@Google](https://github.com/google)
+-   [@peguinify](https://github.com/penguinify)
+-   [@DevBubba](https://github.com/DevBubba)
