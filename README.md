@@ -1,2 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polystyrene-foam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=polystyrene-foam&theme=radical)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polystyrene-foam&repo=github-readme-stats" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=polystyrene-foam&theme=radical" alt="GitHub Streak" /></a>
